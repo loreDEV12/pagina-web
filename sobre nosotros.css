@@ -1,0 +1,56 @@
+body{
+    
+    font-family: cursive;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: rgb(14, 145, 117);
+}
+
+li {
+    list-style: none;
+    margin: 30PX;
+}
+nav{
+    display: flex;
+    height: 56px;
+    background-color: rgb(193, 183, 192);
+    align-items: center;
+    padding: 11px;
+    justify-content: right;
+}
+nav a{
+    color: rgb(13, 12, 12);
+    text-decoration: none;
+    
+}
+.logo{
+    margin-left: 50px;
+    position: absolute;
+    top: -10px;
+}
+
+nav a:hover{
+    color:brown
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+}
+.mn{
+    margin: 40px;
+}
+
+body{
+    background-color: beige;
+
+}
+
+.bienvenidos{
+    color: rgba(171, 143, 112, 0.879);
+}
+
+
+
+

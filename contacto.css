@@ -1,0 +1,54 @@
+body{
+    
+    font-family: cursive;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: rgb(31, 35, 35);
+}
+
+li {
+    list-style: none;
+    margin: 30PX;
+}
+nav{
+    display: flex;
+    height: 56px;
+    background-color: rgb(193, 183, 192);
+    align-items: center;
+    padding: 11px;
+    justify-content: right;
+}
+
+.logo{
+    margin-left: 50px;
+    position: absolute;
+    top: -10px;
+}
+
+nav a:hover{
+    color:brown
+
+}
+.contenedordecontactos{
+    margin-top: 130px;
+}
+.contenedordecontactos h2{
+    font-size: 40px;
+    color: rgba(171, 143, 112, 0.879);
+    
+}
+.contactosdos p{
+    margin: 20px;
+}
+.contactosdos{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    
+}
+body{
+    background-color: beige;
+}
+
